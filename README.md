@@ -5,7 +5,10 @@ Today I'm always looking for new opportunities to see cool stuff and always inte
 Currently Angular is my favorite framework. Right now I work at Iteris as a Senior Frontend Engineer using JavaScript technologies like Angular, React and Nest to build modern interfaces and systems and study Computer Engineering at IFCE - Federal Institute of Education, Science and Technology of Ceará.
 </p>
 </br>
+  <h3>Social</h3>
+
 <div>
+
 <a href = "mailto:marciodepaula133@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcio-de-paula-monte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
